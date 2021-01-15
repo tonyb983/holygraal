@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Console" type="JetRunConfigurationType">
+    <module name="HolyGraal.main" />
+    <option name="VM_PARAMETERS" value="" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="GraalVM JDK 11.0.9" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="MAIN_CLASS_NAME" value="io.imtony.console.MainKt" />
+    <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+    <envs>
+      <env name="JAVA_HOME" value="S:\Library\GraalVM\graalvm-ce-java11-20.3.0" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
